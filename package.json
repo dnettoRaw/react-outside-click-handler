@@ -71,7 +71,7 @@
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
-    "react": "^0.14 || >=15",
+    "react": "^0.14 || ^15.0.0 || ^16.0.0-alpha",
     "react-dom": "^0.14 || >=15"
   }
 }
